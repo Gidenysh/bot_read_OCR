@@ -1,0 +1,3 @@
+cd D:\!Python\pythonProject\plate_verification_bot
+
+venv\Scripts\activate
